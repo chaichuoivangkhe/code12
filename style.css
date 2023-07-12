@@ -1,0 +1,69 @@
+header{
+
+    min-height :80px;;
+    background-color: #0164bf;
+
+}
+#logo{
+
+    float: left;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-right: 20%;
+    
+}
+.menu{
+    float: left;
+    list-style-type: none;
+    margin-right: 20px;
+    text-decoration:none;
+    color: white;
+    margin-top: 3%;
+}
+ul{
+
+    list-style-type: none;
+}
+#hnav{
+    
+    width: 100%;
+
+}
+#than{
+
+    float: left;
+
+}
+h2{
+    text-align: center;
+    color:orange;
+}
+p{
+    text-align: center;
+}
+.p1{
+    color:#0164bf;
+}
+.nut{
+    background-image: url(Bai32/nen_button_dangky.jpg);
+    width: 100px;
+    height: 35px;
+    font-style:inherit;
+    color: #0164bf;
+}
+#than1{
+    max-width: 270px;
+    text-align: left;
+    float:right;
+    width:25%;
+
+}
+
+h3{
+    background-image: url(Bai32/nen_.jpg);
+    background-repeat:no-repeat;
+    height:40px;
+    padding-top:10px;
+    text-align: center;
+    
+}
